@@ -1,0 +1,20 @@
+[ ] tester sous windows
+[ ] tester présence PyQt
+[ ] tester présence notify-send si Linux
+[ ] afficher nombre de pomodoro 
+[ ] start nerver stop
+[ ] start 1[default]2/3/4/5 ... pomodoro
+[ ] configurer dans le menu le nombre de pomodoro avant long break [widget radio]
+[ ] si pause, renommer action 'Start' en 'Continue'
+[ ] traduction
+[ ] mode DEV avec optparse pour corriger durée du pomodoro OU fichier ini ?
+[ ] signe application (http://www.mail-archive.com/pyqt@riverbankcomputing.com/msg14167.html + http://www.qtcentre.org/archive/index.php/t-38453.html)
+
+[x] utiliser libnotify si linux
+[x] bug about qui ferme application -> app.setQuitOnLastWindowClosed(False)
+[x] bug dialog qui ferme application -> app.setQuitOnLastWindowClosed(False)
+[x] bug confirm quit qui ferme application -> app.setQuitOnLastWindowClosed(False)
+[x] confirmer quitter
+[x] afficher durée restante dans le tooltip du systray
+[x] ecrire dans un fichier le temps restant toutes les secondes/minutes
+[x] afficher le temps restant dans la console (cf argv `tps` )

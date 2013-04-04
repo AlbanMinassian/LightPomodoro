@@ -1,0 +1,12 @@
+Note
+===========
+
+- les images png appartiennent au projet http://gitorious.org/tomate/tomate
+- le formatage des minutes:secondes : http://www.megasolutions.net/python/Formatting-milliseconds-to-certain-String-10885.aspx
+- code single application : http://www.mail-archive.com/pyqt@riverbankcomputing.com/msg14167.html
+
+Licence
+===========
+
+GPL
+
